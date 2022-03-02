@@ -1,4 +1,7 @@
-function add_to_cart(pid, pname, price) {
+/**
+ * 
+ */
+ function add_to_cart(pid, pname, price) {
 
 	let cart=   localStorage.getItem("cart");
 	if (cart  == null) {

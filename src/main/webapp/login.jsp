@@ -12,7 +12,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 offset-md-3">
-				<div class="card mt-3 " style="background-color: purple;"></div>
+				<div class="card mt-3 " style="background-color: lightblue;"></div>
 				<h3>Login Here</h3>
 				<div class="card-header"></div>
 				<div class="card-body">

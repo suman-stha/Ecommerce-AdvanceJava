@@ -20,10 +20,10 @@
 				<div class="card-body px-5">
 
 					<h3 class="text-center my-3">Sign Up Here</h3>
-					<div class="card">
-						<img src="img/signup.png" alt="" style="width: 20%">
+				
+						<p style="text-align:center;"><img src="img/signup.png" alt="" style="width: 20%" class="img-center">
 
-					</div>
+					
 					<form action="RegisterServlet" method="post">
 						<div class="form-group">
 							<label for="name">User Name</label> <input name="user_name"
